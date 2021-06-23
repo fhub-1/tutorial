@@ -54,14 +54,6 @@ export default function Sectionskills() {
                             image="/vuetifyjs.svg"
                         />
                     </div>
-
-                    <div className="w-4/12 px-4">
-                        <SkillCard
-                            name="Vuetify js"
-                            level="Intermediate"
-                            image="/vuetifyjs.svg"
-                        />
-                    </div>
                     
               </div> 
             </div>

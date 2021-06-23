@@ -42,17 +42,17 @@ export default function Sectionskills() {
                     {/* card2  */}
                     <div className="w-4/12  px-4 pb-8">
                         <SkillCard
-                            name="Tailwind CSS"
+                            name="React Js"
                             level="Intermediate"
-                            image="/tailwindcss-icon.svg"
+                            image="/react.svg"
                         />
                     </div>
                     {/* card 3 */}
                     <div className="w-4/12 px-4 pb-8">
                         <SkillCard
-                            name="Vercel"
-                            level="Deployement Platform"
-                            image="/vercel.svg"
+                            name="Node js"
+                            level="Intermediate"
+                            image="/nodejs-icon.svg"
                         />
                     </div>
                     

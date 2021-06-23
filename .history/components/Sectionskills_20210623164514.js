@@ -16,7 +16,7 @@ export default function Sectionskills() {
                         />
                     </div>
                     {/* card2  */}
-                    <div className="w-4/12  px-4 pb-8">
+                    <div className="w-4/12  px-4">
                         <SkillCard
                             name="React Js"
                             level="Intermediate"
@@ -24,39 +24,15 @@ export default function Sectionskills() {
                         />
                     </div>
                     {/* card 3 */}
-                    <div className="w-4/12 px-4 pb-8">
+                    <div className="w-4/12 px-4">
                         <SkillCard
                             name="Node js"
                             level="Intermediate"
                             image="/nodejs-icon.svg"
                         />
                     </div>
-                      
-                    <div className="w-4/12  px-4 pb-8">
-                        <SkillCard
-                            name="Materialize CSS"
-                            level="Intermediate"
-                            image="/materializecss.svg"
-                        />
-                    </div>
-                    {/* card2  */}
-                    <div className="w-4/12  px-4 pb-8">
-                        <SkillCard
-                            name="Tailwind CSS"
-                            level="Intermediate"
-                            image="/tailwindcss-icon.svg"
-                        />
-                    </div>
-                    {/* card 3 */}
-                    <div className="w-4/12 px-4 pb-8">
-                        <SkillCard
-                            name="Vercel"
-                            level="Deployement Platform"
-                            image="/vercel.svg"
-                        />
-                    </div>
-                    
-                    <div className="w-4/12 px-4 pb-8">
+                   
+                    <div className="w-4/12 px-4">
                         <SkillCard
                             name="Flutter"
                             level="Intermediate"
@@ -64,20 +40,22 @@ export default function Sectionskills() {
                         />
                     </div>
 
-                    <div className="w-4/12 px-4 pb-8">
+                    <div className="w-4/12 px-4">
                         <SkillCard
                             name="Vue Js"
                             level="Intermediate"
                             image="/vue.svg"
                         />
                     </div>
-                    <div className="w-4/12 px-4 pb-8">
+                    <div className="w-4/12 px-4">
                         <SkillCard
                             name="Vuetify js"
                             level="Intermediate"
                             image="/vuetifyjs.svg"
                         />
                     </div>
+
+
               </div> 
             </div>
        </section>

@@ -50,9 +50,9 @@ export default function Sectionskills() {
                     {/* card 3 */}
                     <div className="w-4/12 px-4 pb-8">
                         <SkillCard
-                            name="Vercel"
-                            level="Deployement Platform"
-                            image="/vercel.svg"
+                            name="Node js"
+                            level="Intermediate"
+                            image="/nodejs-icon.svg"
                         />
                     </div>
                     

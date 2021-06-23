@@ -51,7 +51,7 @@ export default function Sectionskills() {
                     <div className="w-4/12 px-4 pb-8">
                         <SkillCard
                             name="Vercel"
-                            level="Deployement Platform"
+                            level="Intermediate"
                             image="/vercel.svg"
                         />
                     </div>

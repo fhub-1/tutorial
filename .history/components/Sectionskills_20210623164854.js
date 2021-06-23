@@ -31,31 +31,7 @@ export default function Sectionskills() {
                             image="/nodejs-icon.svg"
                         />
                     </div>
-                      
-                    <div className="w-4/12  px-4 pb-8">
-                        <SkillCard
-                            name="Materialize CSS"
-                            level="Intermediate"
-                            image="/materializecss.svg"
-                        />
-                    </div>
-                    {/* card2  */}
-                    <div className="w-4/12  px-4 pb-8">
-                        <SkillCard
-                            name="Tailwind CSS"
-                            level="Intermediate"
-                            image="/tailwindcss-icon.svg"
-                        />
-                    </div>
-                    {/* card 3 */}
-                    <div className="w-4/12 px-4 pb-8">
-                        <SkillCard
-                            name="Vercel"
-                            level="Deployement Platform"
-                            image="/vercel.svg"
-                        />
-                    </div>
-                    
+                   
                     <div className="w-4/12 px-4 pb-8">
                         <SkillCard
                             name="Flutter"

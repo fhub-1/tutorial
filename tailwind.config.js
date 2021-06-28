@@ -13,6 +13,7 @@ module.exports = {
       },
       colors: {
         skill: "#F7F7F8",
+        "200": "#E8E8FB",
          yellow: {
           "50": "#105113100",
           "100": "#fbf0fe",

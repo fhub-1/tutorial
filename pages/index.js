@@ -3,6 +3,8 @@ import Nav from "../components/Nav"
 import Logo from "../components/Logo"
 import Button from "../components/Button"
 import Sectionskills from "../components/Sectionskills"
+import Project from "../components/Project"
+import Contact from "../components/Contact"
 
 export default function Home() {
 
@@ -34,7 +36,7 @@ export default function Home() {
           </div>
           </div>
       </div>
-      {/* end of the hero */}
+      {/* end of the hero */}     
         
       {/* profile section */}
       <section className="py-28">
@@ -61,6 +63,14 @@ export default function Home() {
         <Sectionskills />
       </section>
       {/*end  section of skillss */}
+
+      {/* Profile part  */}
+      <Project />
+      {/* end of profile Part */}
+
+      {/* Contact section */}
+      <Contact />
+      {/* End of section part */}
     </>
    
   )
